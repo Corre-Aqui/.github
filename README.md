@@ -229,12 +229,6 @@ Chegou proposta? Pedido andou? O app te avisa na hora.
 
 ---
 
-<div align="center">
-
-Tem uma ideia, achou algum problema ou só quer mandar um oi? [Fala com a gente por aqui](https://github.com/jaumjaum08/corre_aqui/issues). 💬
-
-<br/>
-
 Feito com 💚 pela equipe **Corre Aqui**
 
 <sub>Todos os direitos reservados.</sub>
